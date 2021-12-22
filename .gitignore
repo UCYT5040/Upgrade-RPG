@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Upgrade RPG files
+upgrade-rpg.save.json
+upgrade-rep.settings.json
